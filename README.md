@@ -14,11 +14,11 @@ The [100 Days of DevOps](https://kodekloud.com/100-days-of-devops) challenge by 
 
 ## Tracking
 
-![](https://progress-bar.xyz/0/?title=Day+Progression&width=250)
+![](https://progress-bar.xyz/1/?title=Day+Progression&width=250)
 
 | Phase | Topic | Days | Status |
 |-------|-------|------|--------|
-| 1 | Linux sysadmin | 01–20 | NOT STARTED |
+| 1 | Linux sysadmin | 01–20 | IN PROGRESS |
 | 2 | Git | 21–34 | NOT STARTED |
 | 3 | Docker | 35–47 | NOT STARTED |
 | 4 | Kubernetes | 48–67 | NOT STARTED |
