@@ -14,7 +14,7 @@ The [100 Days of DevOps](https://kodekloud.com/100-days-of-devops) challenge by 
 
 ## Tracking
 
-![](https://progress-bar.xyz/1/?title=Day+Progression&width=250)
+![](https://progress-bar.xyz/2/?title=Day+Progression&width=250)
 
 | Phase | Topic | Days | Status |
 |-------|-------|------|--------|
